@@ -1,16 +1,17 @@
-# pr6
+# Программирование корпоративных систем
+Дисциплина: **Программирование корпоративных систем** <br>
+Семестр: 5 <br>
+Выполнил студент **ЭФБО-04-22 Медведев А. А.** <br>
 
-A new Flutter project.
+# Содержание работы
 
-## Getting Started
+Практическая работа №6
 
-This project is a starting point for a Flutter application.
+Добавление в корзину( в bottomNavigationBar главная, избранное, корзина, профиль)
+Профиль со своим ФИО, возможностью редактировать данные
+В корзине listView и удаление товара через свайп с кнопкой и подтверждением
+Счетчик одинаковых товаров в корзине
+В избранное товар можно добавить как с главной так и со страницы товара
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[SVID_20241016_151630_1.webm](https://github.com/user-attachments/assets/402a95c0-cdc8-4d0d-a647-44e946c216d7)
